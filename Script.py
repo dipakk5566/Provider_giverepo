@@ -269,21 +269,23 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<blockquote><a href="https://t.me/ProviderBotz">{file_name}</a></b>\n\n<blockquote>"""
+    CAPTION = """<b><a href="https://t.me/movies_4uz">{file_name}</a></b>\n\n𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝘿:➥ <a href="https://t.me/movies4u_backup">「𝙈𝙊𝙑𝙄𝙀𝙎_4𝙐」</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
-<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename} {year}</code>
+⊙ <b>{filename} ({year})</b>
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+🔊 <b>Audio : </b>{language}</b>
+✨ <b>Quality : </b>480p | 720p | 1080p</b>
+🎞️ <b>Genres : </b>{genres}</b>
+🏆 <b>Rating   : <b>{rating}</b>
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+╭───────────────╮
+𝗝𝗢𝗜𝗡 ➩ @movies_4uz
+╰───────────────╯
 
-🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
-📺 ᴏᴛᴛ        : <b>{ott}</b>
-🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
-🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
-🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
-{episodes}
-</blockquote>
+
 """
 
 
